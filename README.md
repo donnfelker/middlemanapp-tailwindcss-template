@@ -2,6 +2,7 @@
 
 This repository contains a template that integrates [Tailwind CSS](https://tailwindcss.com/) 3 with [Middleman](https://middlemanapp.com/)
 
+![Tailwind CSS 3 and Middleman Thumbnail](http://www.donnfelker.com/wp-content/uploads/2022/08/tailwindcss-and-middleman.png)
 [Here is an article on how this template is built](https://www.donnfelker.com/tailwind-css-with-middleman/).
 
 ## Installation
